@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    float myNum =10.123;//initialize variable
+
+    int myNewNum = float(myNum);/*create a new integer variable and explicitly cast the double to int*/
+
+    cout<<myNewNum//the output the new integer
+}
