@@ -7,5 +7,5 @@ int main()
 
     int myNewNum = float(myNum);/*create a new integer variable and explicitly cast the double to int*/
 
-    cout<<myNewNum//the output the new integer
+    cout<<myNewNum;//the output the new integer
 }
